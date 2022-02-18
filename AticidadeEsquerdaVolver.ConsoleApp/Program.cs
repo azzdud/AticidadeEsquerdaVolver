@@ -5,9 +5,7 @@ namespace AticidadeEsquerdaVolver.ConsoleApp
     internal class Program
     {
         static void Main(string[] args)
-        {
-            int teste;
-
+        {       
             do
             {
                 Console.WriteLine("Digite a quantidade de ordens: ");
